@@ -1,0 +1,5 @@
+function checkNewContact() {
+    
+}
+
+export {checkNewContact}
